@@ -1,5 +1,13 @@
 [
   {
+    "time": "2025-11-12T20:27:35.552Z",
+    "ip": "149.57.180.56",
+    "method": "GET",
+    "path": "/login",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "roles": []
+  },
+  {
     "time": "2025-11-12T20:27:29.646Z",
     "ip": "149.57.180.56",
     "method": "GET",
