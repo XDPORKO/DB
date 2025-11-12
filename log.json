@@ -1,6 +1,6 @@
 [
   {
-    "time": "2025-11-12T21:32:05.807Z",
+    "time": "2025-11-12T21:32:06.199Z",
     "ip": "140.213.94.170",
     "method": "POST",
     "path": "/login",
@@ -8,9 +8,17 @@
     "roles": []
   },
   {
-    "time": "2025-11-12T21:32:05.057Z",
+    "time": "2025-11-12T21:32:05.401Z",
     "ip": "140.213.94.170",
     "method": "POST",
+    "path": "/login",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
+    "roles": []
+  },
+  {
+    "time": "2025-11-12T21:32:04.681Z",
+    "ip": "140.213.94.170",
+    "method": "GET",
     "path": "/login",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
     "roles": []
