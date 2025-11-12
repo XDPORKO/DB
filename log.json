@@ -1,0 +1,10 @@
+[
+  {
+    "time": "2025-11-12T13:15:01.082Z",
+    "ip": "143.110.150.192",
+    "method": "GET",
+    "path": "/",
+    "userAgent": "vercel-screenshot/1.0",
+    "roles": []
+  }
+]
