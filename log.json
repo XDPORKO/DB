@@ -1,5 +1,13 @@
 [
   {
+    "time": "2025-11-12T13:21:37.290Z",
+    "ip": "128.199.14.10",
+    "method": "GET",
+    "path": "/favicon.ico",
+    "userAgent": "vercel-screenshot/1.0",
+    "roles": []
+  },
+  {
     "time": "2025-11-12T13:21:36.334Z",
     "ip": "128.199.14.10",
     "method": "GET",
