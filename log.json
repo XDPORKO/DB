@@ -1,5 +1,13 @@
 [
   {
+    "time": "2025-11-12T21:45:11.993Z",
+    "ip": "147.182.243.58",
+    "method": "GET",
+    "path": "/",
+    "userAgent": "vercel-screenshot/1.0",
+    "roles": []
+  },
+  {
     "time": "2025-11-12T21:41:25.420Z",
     "ip": "140.213.94.170",
     "method": "GET",
