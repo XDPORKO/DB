@@ -1,5 +1,13 @@
 [
   {
+    "time": "2025-11-13T06:27:37.829Z",
+    "ip": "118.98.26.6",
+    "method": "GET",
+    "path": "/favicon.ico",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
+    "roles": []
+  },
+  {
     "time": "2025-11-13T06:27:35.695Z",
     "ip": "118.98.26.6",
     "method": "GET",
