@@ -1,1 +1,12 @@
-{}
+{
+  "owner": {
+    "fingerprint": "9e26e185ef220ed53bf5293ebed0e17fb8a750e050de7ebddfe88467a7bc22df",
+    "ip": "140.213.162.194",
+    "time": "2025-11-13T08:59:24.804Z"
+  },
+  "admin": {
+    "fingerprint": "9e26e185ef220ed53bf5293ebed0e17fb8a750e050de7ebddfe88467a7bc22df",
+    "ip": "140.213.162.194",
+    "time": "2025-11-13T08:59:24.804Z"
+  }
+}
