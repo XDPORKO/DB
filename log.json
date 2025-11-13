@@ -1,5 +1,13 @@
 [
   {
+    "time": "2025-11-13T01:00:16.237Z",
+    "ip": "73.86.13.137",
+    "method": "GET",
+    "path": "/",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)",
+    "roles": []
+  },
+  {
     "time": "2025-11-12T21:47:02.706Z",
     "ip": "143.198.231.9",
     "method": "GET",
