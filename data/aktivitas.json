@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1",
+    "judul": "Bakti Sosial",
+    "deskripsi": "Kunjungan ke panti asuhan dan berbagi sembako.",
+    "tanggal": "2025-11-15T08:00:00.000Z",
+    "foto": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "2",
+    "judul": "Lomba Kebersihan Kelas",
+    "deskripsi": "Kompetisi dekorasi kelas terbaik se-sekolah.",
+    "tanggal": "2025-10-30T10:00:00.000Z"
+  }
+]

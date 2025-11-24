@@ -1,0 +1,10 @@
+[
+  {
+    "hari": "Senin",
+    "siswa": ["1", "2"]
+  },
+  {
+    "hari": "Selasa",
+    "siswa": ["3"]
+  }
+]

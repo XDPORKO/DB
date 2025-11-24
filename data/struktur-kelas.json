@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "id": "walas-1",
+      "nama": "Bu Ani",
+      "posisi": "walas",
+      "namaLengkap": "Dra. Ani Susanti, M.Pd",
+      "foto": "https://via.placeholder.com/100/007bff/ffffff?text=WA"
+    },
+    {
+      "id": "ketua-1",
+      "nama": "Ahmad Fauzi",
+      "posisi": "ketua",
+      "namaLengkap": "Ahmad Fauzi",
+      "foto": "https://via.placeholder.com/100/28a745/ffffff?text=K"
+    },
+    {
+      "id": "wakil-1",
+      "nama": "Bunga Citra",
+      "posisi": "wakil",
+      "namaLengkap": "Bunga Citra Lestari",
+      "foto": "https://via.placeholder.com/100/ffc107/000000?text=W"
+    },
+    {
+      "id": "sekretaris-1",
+      "nama": "Dewi Lestari",
+      "posisi": "sekretaris",
+      "namaLengkap": "Dewi Lestari",
+      "foto": "https://via.placeholder.com/100/e83e8c/ffffff?text=S1"
+    },
+    {
+      "id": "sekretaris-2",
+      "nama": "Rina Maulina",
+      "posisi": "sekretaris",
+      "namaLengkap": "Rina Maulina",
+      "foto": "https://via.placeholder.com/100/6f42c1/ffffff?text=S2"
+    },
+    {
+      "id": "bendahara-1",
+      "nama": "Fajar Ramadhan",
+      "posisi": "bendahara",
+      "namaLengkap": "Fajar Ramadhan",
+      "foto": "https://via.placeholder.com/100/fd7e14/ffffff?text=B1"
+    },
+    {
+      "id": "bendahara-2",
+      "nama": "Siti Nurhaliza",
+      "posisi": "bendahara",
+      "namaLengkap": "Siti Nurhaliza",
+      "foto": "https://via.placeholder.com/100/20c997/ffffff?text=B2"
+    }
+  ],
+  "connections": [
+    { "from": "walas-1", "to": "ketua-1" },
+    { "from": "ketua-1", "to": "wakil-1" },
+    { "from": "ketua-1", "to": "sekretaris-1" },
+    { "from": "ketua-1", "to": "sekretaris-2" },
+    { "from": "ketua-1", "to": "bendahara-1" },
+    { "from": "ketua-1", "to": "bendahara-2" }
+  ]
+}

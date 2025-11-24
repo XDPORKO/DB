@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "nama": "Ahmad Fauzi",
+    "nis": "1234567890",
+    "foto": "https://via.placeholder.com/150/007bff/ffffff?text=AF",
+    "kelas": "X MIPA 3",
+    "deskripsi": "Ketua kelas yang aktif dan bertanggung jawab."
+  },
+  {
+    "id": "2",
+    "nama": "Bunga Citra",
+    "nis": "0987654321",
+    "foto": "https://via.placeholder.com/150/28a745/ffffff?text=BC",
+    "kelas": "X MIPA 3",
+    "deskripsi": "Wakil ketua yang kreatif dan inovatif."
+  },
+  {
+    "id": "3",
+    "nama": "Dewi Lestari",
+    "nis": "1122334455",
+    "foto": "https://via.placeholder.com/150/ffc107/000000?text=DL",
+    "kelas": "X MIPA 3",
+    "deskripsi": "Sekretaris yang rapi dan teliti."
+  }
+]
